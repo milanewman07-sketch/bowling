@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "mpie-p51-physics-engine.sln"
+    "dotnet.defaultSolution": "bowling.sln"
 }
